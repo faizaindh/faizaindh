@@ -1,6 +1,3 @@
-<h2 data-importer="text" align="center">Hello! I'm Faiza. 👋</h2>
-
-###
 
 <br clear="both">
 
